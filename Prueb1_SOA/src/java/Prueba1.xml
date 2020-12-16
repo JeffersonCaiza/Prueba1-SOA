@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cartelera> 
+    <película  duración="90" año="2020"> 
+        <código>cod1="w1"</código>
+        <título>BloodShot</título> 
+        <año> 2020</año> 
+        <duracion hora="1" minutos="30" segundos="80"></duracion>
+        <nacionalidad>EE.UU</nacionalidad> 
+        <género>Accion</género> 
+        <clasificación edad="TP"/> 
+        <director>
+            <nombre>Steve</nombre>
+            <apellido>Thomson</apellido>
+            <fecha_nacimiento>
+                <año>1898</año>
+                <mes>Agosto</mes>
+                <dia>18</dia>
+            </fecha_nacimiento>
+        </director> 
+        <reparto> 
+            <actores_principales>
+               <principales>
+                    <original_name>Vin Diesel</original_name>
+                    <pelicula_name>Ray Garrison</pelicula_name>
+                </principales> 
+            </actores_principales>
+            <actores_secundarios>
+                <secundarios>
+                    <original_name>Bruce Willie</original_name>
+                    <pelicula_name>Tom</pelicula_name>
+                </secundarios> 
+            </actores_secundarios>
+            <actores_dobles>
+                 <dobles>
+                    <original_name>Scarlet</original_name>
+                    <pelicula_name>Martha</pelicula_name>
+                </dobles>
+            </actores_dobles>
+        </reparto> 
+        <sinopsis> 
+            Ray Garrison (Vin Diesel) es un soldado caído en combate. Lejos de aceptar su pérdida,
+            la corporación Rising Spirit Technologies (RST) utiliza la nanotecnología para convertirle 
+            en una máquina de matar biotecnológica y sobrehumana llamada Bloodshot, capaz de aumentar su fuerza,
+            sus reflejos y su capacidad de cicatrización. De este modo, Garrison adquiere poderes especiales 
+            que le hacen prácticamente indestructible. La organización controla su cuerpo y su mente y Ray 
+            no sabe qué es real y qué es producto de su imaginación. Pero cuando Garrison empieza a recordar
+            quién era antes y que en una vida anterior tuvo una esposa, decidirá encontrar la verdad 
+            cueste lo que cuesta y caiga quien caiga.
+        </sinopsis> 
+    </película> 
+</cartelera>
+
